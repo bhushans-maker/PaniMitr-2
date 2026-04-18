@@ -1,0 +1,5 @@
+{
+  "name": "AquaAlarm",
+  "description": "A smart water reminder app that calculates your ideal intake, tracks history, and triggers an alarm that won't stop until you log your water.",
+  "requestFramePermissions": []
+}
